@@ -1,0 +1,34 @@
+Guatemala:Sacatepequez:45
+Guatemala:Chimaltenango:50
+Guatemala:Baja Verapaz:100
+Guatemala:El Progreso:75
+Guatemala:Jalapa:80
+Guatemala:Santa Rosa:100
+Guatemala:Escuintla:90
+Escuintla:Suchitepequez:50
+Escuintla:Santa Rosa:50
+Santa Rosa:Jutiapa:50
+Santa Rosa:Jalapa:65
+Suchitepequez:Retalhuleu:50
+Suchitepequez:Solola:45
+Suchitepequez:Chimaltenango:50
+Retalhuleu:Quetzaltenango:65
+Retalhuleu:San Marcos:90
+Quetzaltenango:San Marcos:70
+Quetzaltenango:Totonicapan:65
+Quetzaltenango:Solola:75
+San Marcos:Huehuetenango:100
+Huehuetenango:Quiche:100
+Huehuetenango:Totonicapan:125
+Quiche:Alta Verapaz:100
+Quiche:Baja Verapaz:115
+Quiche:Totonicapan:125
+Baja Verapaz:El Progreso:75
+Baja Verapaz:Alta Verapaz:65
+El Progreso:Zacapa:50
+El Progreso:Jalapa:50
+Alta Verapaz:Peten:200
+Izabal:Peten:300
+Zacapa:Chiquimula:50
+Zacapa:Izabal:75
+Jutiapa:Chiquimula:65
